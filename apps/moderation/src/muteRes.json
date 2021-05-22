@@ -1,0 +1,22 @@
+{
+    "reasons": [
+        "spam",
+        "küfür",
+        "Aşağılama",
+        "Hakaret",
+        "Troll",
+        "Ailevi küfür",
+        "Saygısızlık",
+        "Reklam"
+    ],
+    "times": [
+        5,
+        10,
+        15,
+        20,
+        30,
+        40,
+        45,
+        60
+    ]
+}
